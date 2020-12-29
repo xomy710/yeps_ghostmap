@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/YJ/201115/MAP.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

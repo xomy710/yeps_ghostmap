@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/YJ/201115/MAP.unity
+    guid: 729be70e4bdeb4754bc1873fc955798e
+  - enabled: 1
+    path: Assets/YJ/201115/1_1.unity
+    guid: 38ef8e187392d49c39cedeca0518a3f6
+  - enabled: 1
+    path: Assets/YJ/201115/1_2.unity
+    guid: ab5db63b64eae44cb97edc3fc43cfa50
+  - enabled: 1
+    path: Assets/YJ/201115/1_3.unity
+    guid: b8283ca69ca1f49bbb48e2a2ba80087a
+  - enabled: 1
+    path: Assets/YJ/201115/1_4.unity
+    guid: 9f5f04988f3134f37a08a8a86b458e21
+  - enabled: 1
+    path: Assets/YJ/201115/1_5.unity
+    guid: 7d8d31012523942b686730ffef666cc5
+  - enabled: 1
+    path: Assets/YJ/201115/1_6.unity
+    guid: 16999ff7d001547d3b1d3a13089d6ffb
+  - enabled: 1
+    path: Assets/YJ/201115/1_7.unity
+    guid: 1af5bc97c42cc4d7388edcadfc9e3deb
+  - enabled: 1
+    path: Assets/YJ/201115/1_8.unity
+    guid: 741644de633b64f188e9a7296b1230a0
+  - enabled: 1
+    path: Assets/YJ/201115/1_9.unity
+    guid: cacc07d3d674b46388f3689a59332e92
+  - enabled: 1
+    path: Assets/YJ/201115/1_10.unity
+    guid: bc2e3309cd438421f88a22d471d0fce0
+  m_configObjects: {}

@@ -5,6 +5,16 @@ using UnityEngine.SceneManagement;
 
 public class NextScene : MonoBehaviour
 {
+
+    public string S1;
+    public string S2;
+    public string S3;
+    public string S4;
+    public string S5;
+    public string S6;
+    public string S7;
+    public string S8;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -20,38 +30,38 @@ public class NextScene : MonoBehaviour
 
     public void Scene_1()
     {
-        SceneManager.LoadScene("1_1");
+        SceneManager.LoadScene(S1);
     }
 
     public void Scene_2()
     {
-        SceneManager.LoadScene("1_2");
+        SceneManager.LoadScene(S2);
     }
 
 
     public void Scene_3()
     {
-        SceneManager.LoadScene("1_3");
+        SceneManager.LoadScene(S3);
     }
 
     public void Scene_4()
     {
-        SceneManager.LoadScene("1_4");
+        SceneManager.LoadScene(S4);
     }
 
     public void Scene_5()
     {
-        SceneManager.LoadScene("1_5");
+        SceneManager.LoadScene(S5);
     }
 
     public void Scene_6()
     {
-        SceneManager.LoadScene("1_6");
+        SceneManager.LoadScene(S6);
     }
 
     public void Scene_7()
     {
-        SceneManager.LoadScene("1_7");
+        SceneManager.LoadScene(S7);
     }
 
     public void Scene_9()
@@ -71,6 +81,6 @@ public class NextScene : MonoBehaviour
 
     public void Scene_opening()
     {
-        SceneManager.LoadScene("MAP");
+        SceneManager.LoadScene("MAP_2021");
     }
 }

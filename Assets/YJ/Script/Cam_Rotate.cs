@@ -50,6 +50,6 @@ public class Cam_Rotate : MonoBehaviour
 
     public void Scene_opening()
     {
-        SceneManager.LoadScene("MAP");
+        SceneManager.LoadScene("MAP_2021");
     }
 }

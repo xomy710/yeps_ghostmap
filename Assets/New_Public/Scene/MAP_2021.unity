@@ -447,7 +447,7 @@ GameObject:
   - component: {fileID: 296669136}
   - component: {fileID: 296669135}
   m_Layer: 5
-  m_Name: "Button_\uC758\uB989"
+  m_Name: "Button_3_\uC758\uB989"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -520,9 +520,9 @@ MonoBehaviour:
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
-    m_HighlightedSprite: {fileID: 21300000, guid: 8bcf5c6dbbe19412485699f0e98024a8,
+    m_HighlightedSprite: {fileID: 21300000, guid: 3d656b03278714f30ba9ebed8067f513,
       type: 3}
-    m_PressedSprite: {fileID: 21300000, guid: 8bcf5c6dbbe19412485699f0e98024a8, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: 3d656b03278714f30ba9ebed8067f513, type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -566,7 +566,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 2afd19f6df5a94d11942f788e13f28a4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f41e38b96ba69479f94ac7fa3b12ec05, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -598,7 +598,7 @@ GameObject:
   - component: {fileID: 453548646}
   - component: {fileID: 453548645}
   m_Layer: 5
-  m_Name: "Button_\uC0C8\uC11D\uAD00\uC2DC\uC7A5"
+  m_Name: "Button_4_\uC11D\uAD00\uC2DC\uC7A5"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -671,9 +671,9 @@ MonoBehaviour:
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
-    m_HighlightedSprite: {fileID: 21300000, guid: 3d656b03278714f30ba9ebed8067f513,
+    m_HighlightedSprite: {fileID: 21300000, guid: 8bcf5c6dbbe19412485699f0e98024a8,
       type: 3}
-    m_PressedSprite: {fileID: 21300000, guid: 3d656b03278714f30ba9ebed8067f513, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: 8bcf5c6dbbe19412485699f0e98024a8, type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -717,7 +717,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: f41e38b96ba69479f94ac7fa3b12ec05, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2afd19f6df5a94d11942f788e13f28a4, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -958,12 +958,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   S1: 1_samtaegi
   S2: 2_cheonjangsan
-  S3: 3_ uileung
-  S4: 
-  S5: 
-  S6: 
-  S7: 
-  S8: 
+  S3: 3_uileung
+  S4: 4_market
+  S5: 5_emptyhouse
+  S6: 6_cafe
+  S7: 7_apartment
+  S8: 8_lounge
+  S9: 
+  S10: 
+  S11: 
+  S12: 
 --- !u!4 &542530107
 Transform:
   m_ObjectHideFlags: 0
@@ -1143,7 +1147,7 @@ GameObject:
   - component: {fileID: 657152442}
   - component: {fileID: 657152441}
   m_Layer: 5
-  m_Name: "Button_\uC8FC\uC0C1\uBCF5\uD569_2"
+  m_Name: "Button_8_\uB77C\uC6B4\uC9C0"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1166,7 +1170,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -336, y: 248}
+  m_AnchoredPosition: {x: -784, y: 196}
   m_SizeDelta: {x: 200, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &657152441
@@ -1216,9 +1220,9 @@ MonoBehaviour:
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
-    m_HighlightedSprite: {fileID: 21300000, guid: 95c7dff5327e14b3ea0d870d62b084c3,
+    m_HighlightedSprite: {fileID: 21300000, guid: 8bcf5c6dbbe19412485699f0e98024a8,
       type: 3}
-    m_PressedSprite: {fileID: 21300000, guid: 95c7dff5327e14b3ea0d870d62b084c3, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: 8bcf5c6dbbe19412485699f0e98024a8, type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -1262,7 +1266,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: dd358f71c388741b7aaf46e520521f70, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2afd19f6df5a94d11942f788e13f28a4, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1294,7 +1298,7 @@ GameObject:
   - component: {fileID: 826814832}
   - component: {fileID: 826814831}
   m_Layer: 5
-  m_Name: "Button_\uC11D\uAD00\uCD08 "
+  m_Name: "Button_9_\uC11D\uAD00\uCD08 "
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1523,7 +1527,7 @@ GameObject:
   - component: {fileID: 1019638216}
   - component: {fileID: 1019638215}
   m_Layer: 5
-  m_Name: "Button_\uCE74\uD398\uAC70\uB9AC_2"
+  m_Name: "Button_6_\uCE74\uD398\uAC70\uB9AC"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1830,7 +1834,7 @@ GameObject:
   - component: {fileID: 1212939299}
   - component: {fileID: 1212939302}
   m_Layer: 5
-  m_Name: "Button_\uC0BC\uD0DC"
+  m_Name: "Button_1_\uC0BC\uD0DC"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1853,7 +1857,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -788, y: 3}
+  m_AnchoredPosition: {x: -868, y: 3}
   m_SizeDelta: {x: 200, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1212939299
@@ -2264,7 +2268,7 @@ GameObject:
   - component: {fileID: 1762881461}
   - component: {fileID: 1762881460}
   m_Layer: 5
-  m_Name: "Button_\uCC9C\uC7A5\uC0B0"
+  m_Name: "Button_2_\uCC9C\uC7A5\uC0B0"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2489,7 +2493,7 @@ GameObject:
   - component: {fileID: 1818181805}
   - component: {fileID: 1818181804}
   m_Layer: 5
-  m_Name: "Button_\uC8FC\uC0C1\uBCF5\uD569"
+  m_Name: "Button_7_\uC8FC\uC0C1\uBCF5\uD569"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2512,7 +2516,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -597, y: 300}
+  m_AnchoredPosition: {x: -597, y: 333}
   m_SizeDelta: {x: 200, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &1818181804
@@ -2562,9 +2566,9 @@ MonoBehaviour:
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
-    m_HighlightedSprite: {fileID: 21300000, guid: 2ba63adc30cfd4240972cc38beeaa6a2,
+    m_HighlightedSprite: {fileID: 21300000, guid: 95c7dff5327e14b3ea0d870d62b084c3,
       type: 3}
-    m_PressedSprite: {fileID: 21300000, guid: 2ba63adc30cfd4240972cc38beeaa6a2, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: 95c7dff5327e14b3ea0d870d62b084c3, type: 3}
     m_SelectedSprite: {fileID: 0}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
@@ -2608,7 +2612,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 7f6825e7a84d848d3afba955e6831315, type: 3}
+  m_Sprite: {fileID: 21300000, guid: dd358f71c388741b7aaf46e520521f70, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2876,7 +2880,7 @@ GameObject:
   - component: {fileID: 2053494569}
   - component: {fileID: 2053494568}
   m_Layer: 5
-  m_Name: "Button_\uCE74\uD398\uAC70\uB9AC"
+  m_Name: "Button_5_\uBE48\uC9D1"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

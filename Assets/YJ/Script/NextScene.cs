@@ -13,7 +13,11 @@ public class NextScene : MonoBehaviour
     public string S5;
     public string S6;
     public string S7;
-    public string S8;
+    public string S8; 
+    public string S9;
+    public string S10;
+    public string S11;
+    public string S12;
 
     // Start is called before the first frame update
     void Start()

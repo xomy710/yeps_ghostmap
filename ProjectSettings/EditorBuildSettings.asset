@@ -6,36 +6,120 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/YJ/201115/MAP.unity
-    guid: 729be70e4bdeb4754bc1873fc955798e
+    path: Assets/New_Public/Scene/YJ/1_samtaegi.unity
+    guid: 989e9d30c5603e14395c49bb506af2e6
   - enabled: 1
-    path: Assets/YJ/201115/1_1.unity
-    guid: 38ef8e187392d49c39cedeca0518a3f6
+    path: Assets/New_Public/Scene/SB/2_cheonjangsan.unity
+    guid: 4b40c2edee321944bb04e7c48b32c388
   - enabled: 1
-    path: Assets/YJ/201115/1_2.unity
-    guid: ab5db63b64eae44cb97edc3fc43cfa50
+    path: Assets/New_Public/Scene/YJ/3_uileung.unity
+    guid: 1aeb9d34db2093c4282da38932662458
   - enabled: 1
-    path: Assets/YJ/201115/1_3.unity
-    guid: b8283ca69ca1f49bbb48e2a2ba80087a
+    path: Assets/New_Public/Scene/YJ/3_uileung_2.unity
+    guid: 5e4c4132efa262b459c140c6cb6e22c1
   - enabled: 1
-    path: Assets/YJ/201115/1_4.unity
-    guid: 9f5f04988f3134f37a08a8a86b458e21
+    path: Assets/New_Public/Scene/YJ/3_uileung_3.unity
+    guid: 2e3bc7a6e2ac7e848a71bfc315721025
   - enabled: 1
-    path: Assets/YJ/201115/1_5.unity
-    guid: 7d8d31012523942b686730ffef666cc5
+    path: Assets/New_Public/Scene/SB/4_market.unity
+    guid: b3b1b90720d4ab544a414f632e80820c
   - enabled: 1
-    path: Assets/YJ/201115/1_6.unity
-    guid: 16999ff7d001547d3b1d3a13089d6ffb
+    path: Assets/New_Public/Scene/SB/4_market_1.unity
+    guid: c436d9d8013481b4cb3b9643744e040b
   - enabled: 1
-    path: Assets/YJ/201115/1_7.unity
-    guid: 1af5bc97c42cc4d7388edcadfc9e3deb
+    path: Assets/New_Public/Scene/SB/5_emptyhouse.unity
+    guid: 27bdf19c69a44f647ae2f722deed16b2
   - enabled: 1
-    path: Assets/YJ/201115/1_8.unity
-    guid: 741644de633b64f188e9a7296b1230a0
+    path: Assets/New_Public/Scene/SB/5_emptyhouse_1.unity
+    guid: 93012d3bde3600c4db5e2c3ebdbdba0f
   - enabled: 1
-    path: Assets/YJ/201115/1_9.unity
-    guid: cacc07d3d674b46388f3689a59332e92
+    path: Assets/New_Public/Scene/SB/5_emptyhouse_2.unity
+    guid: 5af806ed6546165428a90653dcc132c3
   - enabled: 1
-    path: Assets/YJ/201115/1_10.unity
-    guid: bc2e3309cd438421f88a22d471d0fce0
+    path: Assets/New_Public/Scene/SB/5_emptyhouse_3.unity
+    guid: 6a00ff7d14884b648b54b0b87d7f827f
+  - enabled: 1
+    path: Assets/New_Public/Scene/SB/5_emptyhouse_4.unity
+    guid: 47256936e0ff9c847a36c87b914c812c
+  - enabled: 1
+    path: Assets/New_Public/Scene/JH/6_cafe.unity
+    guid: ad468d069d1c0d94f97c4d395d5057ba
+  - enabled: 1
+    path: Assets/New_Public/Scene/JH/6_cafe_1.unity
+    guid: 101b03a82f1e86c4da0777d395d90ca8
+  - enabled: 1
+    path: Assets/New_Public/Scene/YJ/7_apartment.unity
+    guid: 9672f4983983f7947a14b5a26686c98b
+  - enabled: 1
+    path: Assets/New_Public/Scene/YJ/7_apartment_1.unity
+    guid: 9d0dc29b31f5dcd4fad99b162edcbeb9
+  - enabled: 1
+    path: Assets/New_Public/Scene/SB/8_lounge.unity
+    guid: 68f300d82f1529d47a162f6d4e094791
+  - enabled: 1
+    path: Assets/New_Public/Scene/CY/9_school.unity
+    guid: c567dd94bffb65146aeb8ffccf9d9b06
+  - enabled: 1
+    path: Assets/New_Public/Scene/CY/9_school_1.unity
+    guid: 04f815d3fa0cd214aa0b67f60aecc3d9
+  - enabled: 1
+    path: Assets/New_Public/Scene/CY/9_school_2.unity
+    guid: 50ca86f0d071a434e812dd0e2f711475
+  - enabled: 1
+    path: Assets/New_Public/Scene/CY/10_playground.unity
+    guid: adf2ec3ed37e4064c8566643d5474170
+  - enabled: 1
+    path: Assets/New_Public/Scene/CY/10_playground_1.unity
+    guid: 310005ad8ba7dae4d92c799bfbd30e43
+  - enabled: 1
+    path: Assets/New_Public/Scene/CY/10_playground_2.unity
+    guid: 647618a09bfc4a648a5b0bb82fe6bba8
+  - enabled: 1
+    path: Assets/New_Public/Scene/CY/11_lamp.unity
+    guid: b0b70e036c25a6e4e9c94ef0c40de1ca
+  - enabled: 1
+    path: Assets/New_Public/Scene/CY/12_theater.unity
+    guid: 3db3d91c51df12e4aa5ae31100f9165b
+  - enabled: 1
+    path: Assets/New_Public/Scene/CY/12_theater_1.unity
+    guid: d9063e1429d0b5b4da6c99278616f00a
+  - enabled: 1
+    path: Assets/New_Public/Scene/CY/12_theater_2.unity
+    guid: 77309c76ec6bb8d43be0dff53f35c27c
+  - enabled: 1
+    path: Assets/New_Public/Scene/JH/13_dolgoji.unity
+    guid: 618841d7766e35941ad532984f3e8c2e
+  - enabled: 1
+    path: Assets/New_Public/Scene/JH/13_dolgoji_1.unity
+    guid: 4d25bc771625b72458398d63051522c4
+  - enabled: 1
+    path: Assets/New_Public/Scene/JH/13_dolgoji_2.unity
+    guid: 18a8ce00acc5e8442848333854334258
+  - enabled: 1
+    path: Assets/New_Public/Scene/JH/13_dolgoji_3.unity
+    guid: 3cc3c58cd5fd905448aa8ef83f5ad884
+  - enabled: 1
+    path: Assets/New_Public/Scene/JH/13_dolgoji_4.unity
+    guid: 9ae798fa3dc3a2a42b4f985c019472c2
+  - enabled: 1
+    path: Assets/New_Public/Scene/JH/13_dolgoji_5.unity
+    guid: 7bb8e6376d47b9e4c8de9cc8af85277c
+  - enabled: 1
+    path: Assets/New_Public/Scene/JH/13_dolgoji_6.unity
+    guid: a43767f9db367f84488cabf02f27110e
+  - enabled: 1
+    path: Assets/New_Public/Scene/JH/13_dolgoji_7.unity
+    guid: 9ae268e80d73fc743b6336f3c692bf5d
+  - enabled: 1
+    path: Assets/New_Public/Scene/JH/14_grandma.unity
+    guid: 09bb1bbf917a7b846b4bb3f0cc73e7bb
+  - enabled: 1
+    path: Assets/New_Public/Scene/JH/14_grandma_1.unity
+    guid: c5ec7e5cc894a034099e9166b3df0a97
+  - enabled: 1
+    path: Assets/New_Public/Scene/YJ/15_bonus.unity
+    guid: aa5b4ef51b0f1db40935a1adaba05600
+  - enabled: 1
+    path: Assets/New_Public/Scene/MAP_2021.unity
+    guid: 73808e9d3a1008e4c994b5ecf568a5ff
   m_configObjects: {}

@@ -18,6 +18,9 @@ public class NextScene : MonoBehaviour
     public string S10;
     public string S11;
     public string S12;
+    public string S13;
+    public string S14;
+    public string S15;
 
     // Start is called before the first frame update
     void Start()
@@ -68,19 +71,42 @@ public class NextScene : MonoBehaviour
         SceneManager.LoadScene(S7);
     }
 
+    public void Scene_8()
+    {
+        SceneManager.LoadScene(S8);
+    }
+
     public void Scene_9()
     {
-        SceneManager.LoadScene("1_9");
+        SceneManager.LoadScene(S9);
     }
 
     public void Scene_10()
     {
-        SceneManager.LoadScene("1_10");
+        SceneManager.LoadScene(S10);
     }
 
-    public void Scene_8()
+    public void Scene_11()
     {
-        SceneManager.LoadScene("1_8");
+        SceneManager.LoadScene(S11);
+    }
+    public void Scene_12()
+    {
+        SceneManager.LoadScene(S12);
+    }
+    public void Scene_13()
+    {
+        SceneManager.LoadScene(S13);
+    }
+
+    public void Scene_14()
+    {
+        SceneManager.LoadScene(S14);
+    }
+
+    public void Scene_15()
+    {
+        SceneManager.LoadScene(S15);
     }
 
     public void Scene_opening()

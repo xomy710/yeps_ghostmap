@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/New_Public/Scene/8_lounge.unity
+- path: Assets/New_Public/Scene/SB/4_market.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

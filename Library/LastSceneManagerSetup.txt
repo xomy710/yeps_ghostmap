@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/New_Public/Scene/SB/4_market.unity
+- path: Assets/New_Public/Scene/SB/5_emptyhouse_2.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

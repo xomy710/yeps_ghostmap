@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/New_Public/Scene/SB/5_emptyhouse_2.unity
+=======
+- path: Assets/YJ/201115/MAP.unity
+>>>>>>> 744109e6d7a0699d3e1b86f7bcd787c8f4c8221d
   isLoaded: 1
   isActive: 1
   isSubScene: 0
